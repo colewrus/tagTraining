@@ -1,11 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\coinScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerDeath.cs">
     <Files>
-      <File FileName="Assets\playerDeath.cs" Line="8" Column="2" />
-      <File FileName="Assets\coinScript.cs" Line="30" Column="3" />
-      <File FileName="..\..\advancedDev\testEnviro\Assets\playerMove.cs" Line="34" Column="42" />
-      <File FileName="..\..\advFinal\TestEnviro\Assets\scripts\navTestMove.cs" Line="4" Column="1" />
+      <File FileName="Assets\coinScript.cs" Line="19" Column="37" />
+      <File FileName="Assets\playerDeath.cs" Line="19" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
